@@ -25,6 +25,15 @@ isso irá rodar o projeto console em backlog.
 
 Toda mensagem que chegar do producer será exibida no console do consumidor.
 
+Feito essa chamada no producer
+
+![image](https://github.com/WillMarciano/Kafka.Consumer.Console/assets/34887614/ccfe8de9-125d-43e3-83a5-29490eaf188a)
+
+
+Resposata console background
+![image](https://github.com/WillMarciano/Kafka.Consumer.Console/assets/34887614/defd6404-f7ac-4fb2-9fdd-34fbe0deef4c)
+
+
 
 
 
