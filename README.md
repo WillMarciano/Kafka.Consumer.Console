@@ -4,7 +4,7 @@ O consumidor do Kafka permite que os aplicativos leiam fluxos de dados do cluste
 
 ## Dependências do projeto
 
-- [Dotnet Core 8.0](https://dotnet.microsoft.com/download/dotnet/3.1) - SDK do Dotnet Core
+- [Dotnet Core 8.0](https://dotnet.microsoft.com/download/dotnet/8.0) - SDK do Dotnet Core
 
 
 ## Rodando o projeto
