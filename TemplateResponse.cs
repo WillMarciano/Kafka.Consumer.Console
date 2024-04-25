@@ -4,13 +4,13 @@ namespace Kafka.Consumer.Console
 {
     public class TemplateResponse
     {
-        [JsonPropertyName("de")]
+        [JsonPropertyName("De")]
         public required string De { get; set; }
 
-        [JsonPropertyName("para")]
+        [JsonPropertyName("Para")]
         public string Para { get; set; }
 
-        [JsonPropertyName("assunto")]
+        [JsonPropertyName("Assunto")]
         public string Assunto { get; set; }
     }
 }

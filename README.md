@@ -31,10 +31,4 @@ Feito essa chamada no producer
 
 
 Resposata console background
-![image](https://github.com/WillMarciano/Kafka.Consumer.Console/assets/34887614/defd6404-f7ac-4fb2-9fdd-34fbe0deef4c)
-
-
-
-
-
-
+![image](https://github.com/WillMarciano/Kafka.Consumer.Console/assets/34887614/ba1c1112-295e-4216-8676-5d666eef466c)

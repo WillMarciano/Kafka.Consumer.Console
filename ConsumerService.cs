@@ -55,6 +55,11 @@ namespace Kafka.Consumer.Console
                     mensagem = $"Erro ao consumir mensagem: {e.Error.Reason}";
                     _logger.LogError(e, mensagem);
                 }
+                catch (Exception e)
+                {
+                    mensagem = "Erro ao consumir mensagem.";
+                    _logger.LogError(e, mensagem);
+                }
             }
             _consumer.Consume(stoppingToken);
         }
